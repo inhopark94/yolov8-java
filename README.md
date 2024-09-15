@@ -1,7 +1,8 @@
-# android java yolov8
-android java yolov8 detector code
+# Android Java yolov8
+Android Java yolov8 detector code
 
-this project is converted from kotlin code which made by surendramaran. 
-reference: https://github.com/surendramaran/YOLOv8-TfLite-Object-Detector
+This project is converted from kotlin code which made by surendramaran. 
 
-thank you
+Reference: https://github.com/surendramaran/YOLOv8-TfLite-Object-Detector
+
+Thank you
